@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92323633450",
+    "project_id": "sinonpractical",
+    "storage_bucket": "sinonpractical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92323633450:android:68e50759bdabe457aaa653",
+        "android_client_info": {
+          "package_name": "com.jahanavi.sinonpractical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92323633450-9ko2f3pjc6p1g5bc3rdh7gcelpip7hm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKFeOc-nBFd_oInMn-B7aN2poUCqxrXFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92323633450-9ko2f3pjc6p1g5bc3rdh7gcelpip7hm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
